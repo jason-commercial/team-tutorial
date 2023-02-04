@@ -1,1 +1,35 @@
+html{
+    
+    background-color: #fdfbfb;
+}
 
+h1{
+    text-align: center;
+    font-size: 70px;
+    color: #6495ED;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    border-radius: 50%;
+    border: 15px solid  #6CB4EE;
+    height: 300px;
+    width: 300px;
+    border-top: 20px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.albom{
+    text-align: center;
+    background-color: #E1EBEE;
+    height: 500px;
+}
+
+
+.name{
+    
+    display: inline-block;
+    font-size: 36px;
+    top: 100px;
+}
